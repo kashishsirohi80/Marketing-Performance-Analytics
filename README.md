@@ -1,4 +1,9 @@
-# 📊 LLM SQL Assistant - Assignment
+# Marketing Performance Analytics
+
+End to end marketing analytical project using sql , python and power BI.
+## Project Overview
+This project analyzes marketing campaign performance using real dataset.
+It includes data cleaning , SQL modelling , and Power BI dashboard.
 
 An intelligent AI-powered SQL Assistant built with Streamlit and Google Gemini that converts natural language questions into SQL queries for analyzing Campaign and Sales data.
 
