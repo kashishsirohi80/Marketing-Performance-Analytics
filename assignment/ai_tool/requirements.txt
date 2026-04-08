@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+sqlalchemy
+pandas
+python-dotenv
+pymysql
